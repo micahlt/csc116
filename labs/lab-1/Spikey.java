@@ -7,7 +7,8 @@ public class Spikey {
     print(" //\\\\");
     print("  /\\");
   }
-  public static void print(String arg) {
-    System.out.println(arg);
+
+  public static void print(String string) {
+    System.out.println(string);
   }
 }
