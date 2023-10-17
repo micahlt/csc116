@@ -1,7 +1,8 @@
+import java.util.Random;
+
 public class MyTest {
     public static void main(String[] args) {
-        int result;
-        result /= 2;
-        System.out.println("result is " + result);
+        double randNo = Math.random();
+        System.out.println(randNo);
     }
 }

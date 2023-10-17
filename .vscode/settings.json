@@ -1,3 +1,4 @@
 {
-  "java.debug.settings.onBuildFailureProceed": true
+  "java.debug.settings.onBuildFailureProceed": true,
+  "editor.fontFamily": "Fira Code, 'Fira Code', Consolas, 'Courier New', monospace"
 }
