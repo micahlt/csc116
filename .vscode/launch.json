@@ -5,7 +5,7 @@
     {
       "type": "java",
       "name": "Launch with JavaFX",
-      "mainClass": "HelloFx",
+      "mainClass": "ShowCircle",
       "request": "launch",
       "vmArgs": "--module-path C:\\JavaFX\\lib --add-modules javafx.controls"
     }
