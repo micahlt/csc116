@@ -4,8 +4,29 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CounterTest",
+      "request": "launch",
+      "mainClass": "CounterTest",
+      "projectName": "csc116_57ccfcbb"
+    },
+    {
+      "type": "java",
+      "name": "NameTest",
+      "request": "launch",
+      "mainClass": "NameTest",
+      "projectName": "csc116_57ccfcbb"
+    },
+    {
+      "type": "java",
       "name": "Launch with JavaFX",
-      "mainClass": "ShowCircle",
+      "mainClass": "House",
+      "request": "launch",
+      "vmArgs": "--module-path C:\\JavaFX\\lib --add-modules javafx.controls"
+    },
+    {
+      "type": "java",
+      "name": "Launch with JavaFX",
+      "mainClass": "ButtonCircle",
       "request": "launch",
       "vmArgs": "--module-path C:\\JavaFX\\lib --add-modules javafx.controls"
     }

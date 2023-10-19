@@ -11,5 +11,10 @@
     "c:\\JavaFX\\lib\\javafx.swing.jar",
     "c:\\JavaFX\\lib\\javafx.web.jar",
     "c:\\JavaFX\\lib\\javafx-swt.jar"
+  ],
+  "java.project.sourcePaths": [
+    "labs/lab-4",
+    "assignments/assignment1",
+    "labs/lab-6"
   ]
 }
