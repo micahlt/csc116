@@ -4,6 +4,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TestRectangle",
+      "request": "launch",
+      "mainClass": "TestRectangle",
+      "projectName": "csc116_78d3a4f1"
+    },
+    {
+      "type": "java",
+      "name": "PointMain",
+      "request": "launch",
+      "mainClass": "PointMain",
+      "projectName": "csc116_78d3a4f1"
+    },
+    {
+      "type": "java",
+      "name": "PointClient",
+      "request": "launch",
+      "mainClass": "PointClient",
+      "projectName": "csc116_78d3a4f1"
+    },
+    {
+      "type": "java",
       "name": "CounterTest",
       "request": "launch",
       "mainClass": "CounterTest",
