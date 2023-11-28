@@ -12,5 +12,10 @@
     "c:\\JavaFX\\lib\\javafx.web.jar",
     "c:\\JavaFX\\lib\\javafx-swt.jar"
   ],
-  "java.project.sourcePaths": ["labs/lab-6", "labs/lab-4", "labs/lab-11"]
+  "java.project.sourcePaths": [
+    "labs/lab-6",
+    "labs/lab-4",
+    "labs/lab-11",
+    "labs/lab-12"
+  ]
 }

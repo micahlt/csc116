@@ -4,6 +4,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TestPercentEven",
+      "request": "launch",
+      "mainClass": "TestPercentEven",
+      "projectName": "csc116_78d3a4f1"
+    },
+    {
+      "type": "java",
+      "name": "TestCopyRange",
+      "request": "launch",
+      "mainClass": "TestCopyRange",
+      "projectName": "csc116_78d3a4f1"
+    },
+    {
+      "type": "java",
+      "name": "TestAppend",
+      "request": "launch",
+      "mainClass": "TestAppend",
+      "projectName": "csc116_78d3a4f1"
+    },
+    {
+      "type": "java",
+      "name": "PromptNumbers",
+      "request": "launch",
+      "mainClass": "PromptNumbers",
+      "projectName": "csc116_78d3a4f1"
+    },
+    {
+      "type": "java",
       "name": "TestRectangle",
       "request": "launch",
       "mainClass": "TestRectangle",
